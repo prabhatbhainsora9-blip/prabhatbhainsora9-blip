@@ -52,27 +52,25 @@ I'm a CSE student diving deep into the world of AI & ML. I love writing clean co
 
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhatbhainsora9-blip&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=prabhatbhainsora9-blip&theme=tokyonight&hide_border=true" width="48%" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=prabhatbhainsora9-blip&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=prabhatbhainsora9-blip&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatbhainsora9-blip&theme=tokyonight&hide_border=true&layout=compact" width="50%" />
-</p>
-
----
-
-## ✍️ Random Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prabhatbhainsora9-blip&theme=tokyonight&hide_border=true&layout=compact" height="150"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prabhatbhainsora9-blip&color=00f7ff&style=flat-square&label=Profile+Views" />
+### 📬 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/prabhat-bhainsora-79515b326/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:prabhatbhainsora9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/prabhatbhainsora9-blip"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+<p align="center"><i>"Data is the new oil — and I'm here to refine it." 🤖</i></p>
