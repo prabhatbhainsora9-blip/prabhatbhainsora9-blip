@@ -1,7 +1,10 @@
-<h1 align="center">Hey there! I'm Prabhat 👋🤖</h1>
+markdown<h1 align="center">Hi there, I'm Prabhat 🤖</h1>
+<h3 align="center">B.Tech CSE (AI & ML) Student • ML Enthusiast • Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%7C+AI+%26+ML+Student;Machine+Learning+Enthusiast;Deep+Learning+%7C+NLP+%7C+Computer+Vision;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <a href="https://www.linkedin.com/in/prabhat-bhainsora-79515b326/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:prabhatbhainsora9@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/prabhatbhainsora9-blip"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ---
